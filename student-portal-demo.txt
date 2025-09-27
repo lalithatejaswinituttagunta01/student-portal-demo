@@ -1,6 +1,0 @@
-student name=lalitha
-course=BCA 
-year=3rd 
-roll.no:10
-college=Aditya degree college
-suc code=2346240116
